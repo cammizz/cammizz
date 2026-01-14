@@ -2,7 +2,7 @@
 
 **`Olá! Bem-vindos ao meu portfólio 👋`**
 
-Sou uma entusiasta da tecnologia e atualmente estou cursando **Técnico em Informática no Senac**.
+Sou uma entusiasta da tecnologia e atualmente estou cursando **Técnico em Informática no Senac Minas**.
 
 Estou construindo minha base técnica e explorando como transformar linhas de código em soluções reais. Neste perfil, compartilho minha jornada de aprendizado, desde os primeiros códigos em HTML até projetos mais dinâmicos. Estou sempre aberta a conexões e aprendizado!
 
