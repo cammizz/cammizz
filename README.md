@@ -29,5 +29,5 @@ Estou construindo minha base tÃ©cnica e explorando como transformar linhas de cÃ
     alt="JavaScript" 
     title="JavaScript"
     style="padding-right: 10px;" 
-    src="    https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
 />
